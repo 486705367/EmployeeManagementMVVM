@@ -1,4 +1,4 @@
-# EmployeeManagementMVVM
+
 # Employee Management System (WPF + MVVM)
 
 A Windows desktop app built with C#, .NET and WPF using the MVVM pattern.
